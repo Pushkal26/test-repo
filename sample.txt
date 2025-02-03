@@ -1,0 +1,8 @@
+Hello 
+Hi there
+
+
+git status ===> to see the status of your repo
+Steps 
+1 . initialise  a git repo
+===> git init 
